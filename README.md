@@ -16,7 +16,7 @@ I am a front-end web developer with a passion for creating modern, responsive we
 </p>
 
 ### 🌱 Currently Exploring:
-- Frameworks like **React** and **Vue.js**
+- Frameworks like **React.js**
 - Enhancing UI/UX through **accessibility** best practices
 - Experimenting with **CSS animations** and advanced **JavaScript** patterns
 
