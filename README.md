@@ -2,7 +2,7 @@
 
 ### Front-End Web Developer | Learner | Passionate about Design and Code 💻🎨
 
-I am a front-end web developer with a passion for creating modern, responsive websites. Having mastered HTML, CSS, Tailwind CSS, JavaScript, and React I am constantly expanding my skill set to build engaging user experiences.
+I am a front-end web developer with a passion for creating modern, responsive websites. Having mastered HTML, CSS, Tailwind CSS, JavaScript, and React, I am constantly expanding my skill set to build engaging user experiences.
 
 ### 👩‍💻 Skills I've Mastered:
 
